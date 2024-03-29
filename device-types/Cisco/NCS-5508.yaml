@@ -7,38 +7,73 @@ u_height: 13
 is_full_depth: true
 module-bays:
   - name: RP0
-    position: '0'
+    label: RP0
+    position: 0/RP0
+    description: Route Processor
   - name: RP1
-    position: '1'
+    label: RP1
+    position: 0/RP1
+    description: Route Processor
   - name: LC0
-    position: '0'
+    label: LC0
+    position: 0/LC0
+    description: Line Card
   - name: LC1
-    position: '1'
+    label: LC1
+    position: 0/LC1
+    description: Line Card
   - name: LC2
-    position: '2'
+    label: LC2
+    position: 0/LC2
+    description: Line Card
   - name: LC3
-    position: '3'
+    label: LC3
+    position: 0/LC3
+    description: Line Card
   - name: LC4
-    position: '4'
+    label: LC4
+    position: 0/LC4
+    description: Line Card
   - name: LC5
-    position: '5'
+    label: LC5
+    position: 0/LC5
+    description: Line Card
   - name: LC6
-    position: '6'
+    label: LC6
+    position: 0/LC6
+    description: Line Card
   - name: LC7
-    position: '7'
+    label: LC7
+    position: 0/LC7
+    description: Line Card
   - name: PM0
-    position: '0'
+    label: PM0
+    position: 0/PM0
   - name: PM1
-    position: '1'
+    label: PM1
+    position: 0/PM1
+    description: Power module
   - name: PM2
-    position: '2'
+    label: PM2
+    position: 0/PM2
+    description: Power module
   - name: PM3
-    position: '3'
+    label: PM3
+    position: 0/PM3
+    description: Power module
   - name: PM4
-    position: '4'
+    label: PM4
+    position: 0/PM4
+    description: Power module
   - name: PM5
-    position: '5'
+    label: PM5
+    position: 0/PM5
+    description: Power module
   - name: PM6
-    position: '6'
+    label: PM6
+    position: 0/PM6
+    description: Power module
   - name: PM7
-    position: '7'
+    label: PM7
+    position: 0/PM7
+    description: Power module
